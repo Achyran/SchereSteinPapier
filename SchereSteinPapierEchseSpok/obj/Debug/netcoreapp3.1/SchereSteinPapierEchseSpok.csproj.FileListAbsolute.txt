@@ -1,0 +1,16 @@
+C:\Users\Create\source\repos\SchereSteinPapierEchseSpok\SchereSteinPapierEchseSpok\bin\Debug\netcoreapp3.1\SchereSteinPapierEchseSpok.exe
+C:\Users\Create\source\repos\SchereSteinPapierEchseSpok\SchereSteinPapierEchseSpok\bin\Debug\netcoreapp3.1\SchereSteinPapierEchseSpok.deps.json
+C:\Users\Create\source\repos\SchereSteinPapierEchseSpok\SchereSteinPapierEchseSpok\bin\Debug\netcoreapp3.1\SchereSteinPapierEchseSpok.runtimeconfig.json
+C:\Users\Create\source\repos\SchereSteinPapierEchseSpok\SchereSteinPapierEchseSpok\bin\Debug\netcoreapp3.1\SchereSteinPapierEchseSpok.runtimeconfig.dev.json
+C:\Users\Create\source\repos\SchereSteinPapierEchseSpok\SchereSteinPapierEchseSpok\bin\Debug\netcoreapp3.1\SchereSteinPapierEchseSpok.dll
+C:\Users\Create\source\repos\SchereSteinPapierEchseSpok\SchereSteinPapierEchseSpok\bin\Debug\netcoreapp3.1\SchereSteinPapierEchseSpok.pdb
+C:\Users\Create\source\repos\SchereSteinPapierEchseSpok\SchereSteinPapierEchseSpok\obj\Debug\netcoreapp3.1\SchereSteinPapierEchseSpok.csproj.AssemblyReference.cache
+C:\Users\Create\source\repos\SchereSteinPapierEchseSpok\SchereSteinPapierEchseSpok\obj\Debug\netcoreapp3.1\SchereSteinPapierEchseSpok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Create\source\repos\SchereSteinPapierEchseSpok\SchereSteinPapierEchseSpok\obj\Debug\netcoreapp3.1\SchereSteinPapierEchseSpok.AssemblyInfoInputs.cache
+C:\Users\Create\source\repos\SchereSteinPapierEchseSpok\SchereSteinPapierEchseSpok\obj\Debug\netcoreapp3.1\SchereSteinPapierEchseSpok.AssemblyInfo.cs
+C:\Users\Create\source\repos\SchereSteinPapierEchseSpok\SchereSteinPapierEchseSpok\obj\Debug\netcoreapp3.1\SchereSteinPapierEchseSpok.csproj.CoreCompileInputs.cache
+C:\Users\Create\source\repos\SchereSteinPapierEchseSpok\SchereSteinPapierEchseSpok\obj\Debug\netcoreapp3.1\SchereSteinPapierEchseSpok.dll
+C:\Users\Create\source\repos\SchereSteinPapierEchseSpok\SchereSteinPapierEchseSpok\obj\Debug\netcoreapp3.1\SchereSteinPapierEchseSpok.pdb
+C:\Users\Create\source\repos\SchereSteinPapierEchseSpok\SchereSteinPapierEchseSpok\obj\Debug\netcoreapp3.1\SchereSteinPapierEchseSpok.genruntimeconfig.cache
+C:\Users\Create\source\repos\SchereSteinPapierEchseSpok\SchereSteinPapierEchseSpok\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Create\source\repos\SchereSteinPapierEchseSpok\SchereSteinPapierEchseSpok\obj\Debug\netcoreapp3.1\SchereSteinPapierEchseSpok.csproj.CopyComplete

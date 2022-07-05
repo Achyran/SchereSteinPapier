@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5aq6h5u+Fa33/qvAbReTfnoTR7f99Xnga6RuLLfaZb+KM9K9wHUlRv9HfrRUklyH33Vqmi/BwK3gOQob3HESFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Create\\source\\repos\\SchereSteinPapierEchseSpok\\SchereSteinPapierEchseSpok\\SchereSteinPapierEchseSpok.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Create\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Create\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
